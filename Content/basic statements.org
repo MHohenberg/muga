@@ -1,0 +1,50 @@
+
+* What is Usenet?
+
+** NNTP
+
+** Stop the abuse
+
+In recent years, Usenet was mostly known by distributors of pirated software 
+and movies. These companies provided access to a select group of channels or 
+
+* Why resurrect it?
+
+** Usenet is not owned by anyone
+** Usenet allows for some level of anonymity
+
+
+** Usenet clients are more powerful than a browser ...
+
+In a web forum software in an web browser, you are limited at how you can use 
+the system. 
+
+** ... they allow for message encryption and signing
+
+Did you really say that? Well, you *can* sign your posts on web forms - 
+
+** Accessing Usenet is not trivial
+
+The "September that never ended"
+
+** Usenet does not need a web interface (but you can have one)
+
+In the last five years, the threat of megacorp-owned social networks has been
+put into the focus of developers all around the world - and they started to 
+create open-sourced systems, some more distributed than others, many of whose 
+saw limited use. Even if they managed to get a certain userbase, the distributed 
+aspect was often neglected by everyone just hitting one of very few servers - the 
+idea of a network of servers did not take roots. 
+
+
+* So, how do we do this?
+
+1. Get access to the Usenet
+2. Find usenet groups
+3. Create, write, start discussions
+4. Set up infrastructure
+5. Spread the word
+
+* Who are we?
+
+We are internet enthusiasts
